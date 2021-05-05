@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<p>I code mainly in node.js and python and am currently playing around with Hypixel APIs and other REST APIs!</p>
+<p>I code mainly in node.js and Python and am currently playing around with Hypixel APIs and other REST APIs!</p>
 
 ## Skills
 
@@ -10,6 +10,7 @@
     <img alt="CSS" height="35" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
     <img alt="JavaScript" height="35" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
     <img alt="GitHub" height="35" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+    <img alt="Node" height="35" src="https://img.shields.io/badge/Node.js-339933?logo=nodejs&logoColor=white&style=for-the-badge" />
 </p>
 
 ## Github Statistics
