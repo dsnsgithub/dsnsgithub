@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <p>I code mainly in node.js and python and am currently playing around with Hypixel APIs and other REST APIs!</p>
 
