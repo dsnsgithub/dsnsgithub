@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<p>I code mainly in node.js and Python and am currently playing around with Hypixel APIs and other REST APIs!</p>
+<p>A full-stack developer that creates API gadgets in JS and plays Minecraft.</p>
 <p>Check out my portfolio: https://dsns.dev/</p>
 
 ## Skills
