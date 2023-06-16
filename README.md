@@ -16,4 +16,4 @@
 
 ## Github Statistics
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsnsgithub" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dsnsgithub&show_icons=true&hide_title=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dsnsgithub&rank_icon=github" />
