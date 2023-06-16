@@ -1,7 +1,6 @@
-# Hi there 👋
-
+## Who am I?
 <p>A full-stack developer that creates API gadgets in JS and plays Minecraft.</p>
-<p>Check out my portfolio: https://dsns.dev/</p>
+<p>Check out my portfolio: <b>https://dsns.dev/</b></p>
 
 ## Skills
 
