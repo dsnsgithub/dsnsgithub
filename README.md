@@ -1,5 +1,5 @@
 ## Who am I?
-<p>A full-stack developer that creates API gadgets in JS and plays Minecraft.</p>
+<p>A full-stack developer with an interest in Minecraft.</p>
 <p>Check out my portfolio: <b>https://www.dsns.dev/</b></p>
 
 ## Github Statistics
