@@ -1,6 +1,6 @@
 ## Who am I?
 <p>A full-stack developer with an interest in Minecraft.</p>
-<p>Check out my portfolio: <b>https://www.dsns.dev/</b></p>
+<p>Website: <b>https://www.dsns.dev/</b></p>
 
 ## Github Statistics
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsnsgithub" />
